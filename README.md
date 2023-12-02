@@ -21,6 +21,22 @@
 
 ![Image](https://github.com/Hanzalashaik/countDown-game/blob/main/public/result.png "Image")
 
+## Installation
+
+To run this Project Management Web App locally, follow these steps:
+
+```bash
+git clone git@github.com:Hanzalashaik/countDown-game.git
+cd countDown-game
+npm install
+```
+
+To start app
+
+```bash
+npm run dev
+```
+
 ## Technologies Used
 
 1) <b>React.js</b>: Front-end library for building user interfaces.

@@ -17,9 +17,9 @@
 
 <h1>Screenshots</h1>
 
-![Image](https://github.com/Hanzalashaik/countDown-game/blob/main/public/ss.png "Image")
+![Image](https://github.com/Hanzalashaik/countDown-game/blob/main/client/public/ss.png "Image")
 
-![Image](https://github.com/Hanzalashaik/countDown-game/blob/main/public/result.png "Image")
+![Image](https://github.com/Hanzalashaik/countDown-game/blob/main/client/public/result.png "Image")
 
 ## Installation
 

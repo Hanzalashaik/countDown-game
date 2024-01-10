@@ -221,3 +221,40 @@ header p {
     opacity: 0.5;
   }
 }
+
+/* Media Query for Mobile Devices */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px; 
+  }
+
+  #content {
+    max-width: 90%; 
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 2.5rem; 
+  }
+
+  header p {
+    font-size: 1rem; 
+  }
+
+  #challenges {
+    max-width: 90%;
+    margin: 2rem auto; 
+  }
+
+  .challenge {
+    width: 100%;
+  }
+
+  .challenge h2 {
+    font-size: 1.2rem;
+  }
+
+  .challenge button {
+    font-size: 1rem;
+  }
+}
